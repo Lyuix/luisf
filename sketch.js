@@ -1,0 +1,1 @@
+console.log("Soy Luis y quiero estudiar gastronomia");
